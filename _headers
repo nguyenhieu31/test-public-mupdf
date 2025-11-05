@@ -1,0 +1,8 @@
+/* 
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
+  Access-Control-Allow-Headers: *
+  Cross-Origin-Resource-Policy: cross-origin
+
+/lib/*.wasm
+  Content-Type: application/wasm
