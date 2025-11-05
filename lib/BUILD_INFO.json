@@ -1,0 +1,12 @@
+{
+  "build": {
+    "version": "5.122.0",
+    "timestamp": 1761537605745,
+    "time": "2025-10-27T04:00:05.745Z",
+    "clean": true
+  },
+  "commit": {
+    "hash": "278a990f1d130e517316fc8b49cff37fa2482d34",
+    "date": "Mon Oct 27 12:26:22 2025 +0900"
+  }
+}
